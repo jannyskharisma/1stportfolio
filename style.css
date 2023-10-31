@@ -32,19 +32,8 @@ header
     z-index: 100000;
 
     /* height: 20px; */
-    position: sticky;
+    position: fixed;
     top: 0;
-}
-
-header.sticky
-{
-    padding: 5px 100px;
-    background: #fff;
-}
-
-.container{
-    padding: 10px 10%;
-
 }
 
 nav{
